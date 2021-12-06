@@ -1,2 +1,2 @@
 # Python-D
-Desafios de python
+Exercícios de python
